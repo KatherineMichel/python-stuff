@@ -1,6 +1,11 @@
 # Python Stuff
 
 <!--
+https://github.com/hugovk | hugovk (Hugo van Kemenade)
+https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
+https://sethmlarson.dev/ | Seth Michael Larson
+https://davidism.com/ David Lord
+
 https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
 -->
