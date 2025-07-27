@@ -1,7 +1,49 @@
 # Python Stuff
 
 <!--
+https://hugovk.dev/
+https://fosstodon.org/@hugovk@mastodon.social/
+
+Natalia Bidart
+https://noumenal.es/
+https://buttondown.com/carlton/
+https://fosstodon.org/@carlton/
+https://twitter.com/carltongibson/
+https://github.com/carltongibson/
+https://sethmlarson.dev/
+https://x.com/sethmlarson/
+https://vstinner.github.io/
+
+https://hynek.me/
+https://www.b-list.org
+
+Mariusz
+https://twitter.com/MariuszFelisiak
+https://lukasz.langa.pl
+https://twitter.com/llanga/
+https://ao.gl/
+
+https://adamj.eu/tech/
+https://twitter.com/AdamChainz/
+http://allendowney.blogspot.com.au/
+https://www.allendowney.com/
+https://twitter.com/AllenDowney/
+https://twitter.com/AlSweigart/
+https://www.aeracode.org
+https://github.com/andrewgodwin | andrewgodwin (Andrew Godwin)
+https://twitter.com/andrewgodwin/
+https://automationpanda.com/
+https://twitter.com/AutomationPanda
+https://fosstodon.org/@tonybaloney/
+https://twitter.com/anthonypjshaw
+https://twitter.com/codewithanthony/
+https://www.youtube.com/c/anthonywritescode
+http://lucumr.pocoo.org/
+http/www.dabeaz.com 
+https://x.com/bascodes/
+https://bas.codes/
 https://gaborbernat.github.io/
+https://github.com/gaborbernat/ | gaborbernat (Bernát Gábor)
 https://x.com/gjbernat/
 https://snarky.ca/
 https://x.com/charliermarsh/
@@ -70,6 +112,7 @@ https://twitter.com/pganssle
 https://twitter.com/pganssle/
 https://blog.ganssle.io/
 https://www.paulox.net/
+https://twitter.com/pauloxnet/
 https://github.com/rhettinger/
 https://twitter.com/reuvenmlerner/
 https://blog.robertroskam.com/
