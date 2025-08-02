@@ -1,6 +1,69 @@
 # Python Stuff
 
 <!--
+https://x.com/bascodes/
+https://bas.codes/
+
+https://twitter.com/JonG0uld/
+-->
+
+## Python/Django Authorities
+
+* Adam Johnson
+* Al Sweigart
+* Allen Downey
+* [Alyssa Coghlan](https://www.curiousefficiency.org/pages/about/)
+* Andrew Godwin
+* Andy Knight
+* Anthony Shaw
+* Anthony Sottile
+* Armin Ronacher
+* Bernát Gábor
+* Brett Cannon
+* Carlton Gibson
+* Carol Willing
+* Charlie Marsh
+* Christopher Neugebauer
+* David Beazley
+* Dawn Wages
+* David Lord
+* Ee Durbin
+* Eric Matthes
+* Frank Wiles
+* Glyph Lefkowitz
+* Guido van Rossum
+* Hugo van Kemenade
+* [Hynek Schlawack](https://hynek.me/)
+* K. Jay Miller
+* Jacob Kaplan-Moss
+* James Bennett
+* Jeff Triplett
+* Jeremy Howard
+* Jessica Garson
+* Kenneth Reitz
+* Lorena Mesa
+* Łukasz Langa
+* Luke Plant
+* Lynn Root
+* Mariatta Wijaya
+* Mariusz Felisiak
+* Marlene Mhangami
+* Mason Egger
+* Moshe Zadka
+* Naomi Ceder
+* Natalia Bidart
+* Ned Batchelder
+* Pablo Galindo Salgado
+* Paul Everitt
+* Paul Ganssle
+* Raymond Hettinger
+* Seth Larson
+* Simon Willison
+* Trey Hunner
+* Victor Stinner
+* William Vincent
+
+<!--
 https://hugovk.dev/
 https://fosstodon.org/@hugovk@mastodon.social/
 https://github.com/hugovk | hugovk (Hugo van Kemenade)
@@ -22,6 +85,7 @@ https://vstinner.github.io/
 
 Mariusz
 https://twitter.com/MariuszFelisiak
+
 https://lukasz.langa.pl
 https://twitter.com/llanga/
 https://ao.gl/
@@ -39,6 +103,8 @@ https://www.aeracode.org
 https://github.com/andrewgodwin | andrewgodwin (Andrew Godwin)
 https://twitter.com/andrewgodwin/
 
+https://python-notes.curiousefficiency.org
+
 https://automationpanda.com/
 https://twitter.com/AutomationPanda
 
@@ -47,14 +113,12 @@ https://twitter.com/anthonypjshaw
 
 https://twitter.com/codewithanthony/
 https://www.youtube.com/c/anthonywritescode
+https://github.com/asottile/
 
 Armin Ronacher
 http://lucumr.pocoo.org/
 
 http/www.dabeaz.com 
-
-https://x.com/bascodes/
-https://bas.codes/
 
 https://gaborbernat.github.io/
 https://github.com/gaborbernat/ | gaborbernat (Bernát Gábor)
@@ -74,6 +138,10 @@ https://twitter.com/chrisjrn/
 
 https://fosstodon.org/@davidism@mas.to/
 https://davidism.com/
+https://twitter.com/davidism/
+
+http://dawnwages.info/
+https://twitter.com/DawnWagesSays/
 
 https://mostlypython.substack.com/
 https://twitter.com/ehmatthes/
@@ -101,28 +169,18 @@ https://jefftriplett.com/
 https://micro.webology.dev/
 https://twitter.com/webology/
 
-https://mariatta.ca/
-https://fosstodon.org/@mariatta/
-
-https://github.com/asottile/
-
 https://twitter.com/jeremyphoward/
 
-https://twitter.com/JonG0uld/
-
-https://x.com/kennethreitz42/
-
-http://dawnwages.info/
-https://twitter.com/DawnWagesSays/
+https://twitter.com/jessicagarson/
 
 https://twitter.com/kjaymiller/
 https://kjaymiller.com/
 https://fosstodon.org/@kjaymiller@mastodon.social/
 
+https://x.com/kennethreitz42/
+
 http://lorenamesa.com/
 https://github.com/lorenanicole/
-
-https://twitter.com/jessicagarson/
 
 https://lukeplant.me.uk/
 https://twitter.com/spookylukey/
@@ -130,6 +188,7 @@ https://twitter.com/spookylukey/
 https://twitter.com/roguelynn/
 
 https://mariatta.ca/
+https://fosstodon.org/@mariatta/
 https://twitter.com/mariatta/
 
 https://marlenemhangami.com/
@@ -137,6 +196,38 @@ https://twitter.com/marlene_zw/
 
 https://mason.dev/
 https://twitter.com/masonegger/
+
+https://twitter.com/moshezadka/
+
+https://github.com/nceder
+
+https://nedbatchelder.com/
+
+https://twitter.com/pganssle
+https://twitter.com/pganssle/
+https://blog.ganssle.io/
+
+https://simonwillison.net/
+https://fosstodon.org/@simon@simonwillison.net
+https://twitter.com/simonw/
+
+https://treyhunner.com/
+https://www.pythonmorsels.com/
+https://twitter.com/PythonMorsels/
+https://fosstodon.org/@treyhunner@mastodon.social/
+https://medium.com/@treyhunner/
+https://www.youtube.com/c/PythonMorsels
+
+https://wsvincent.com/
+https://learndjango.com/
+https://djangoforbeginners.com/
+
+
+
+
+
+
+
 
 https://twitter.com/__mharrison__/
 
@@ -147,18 +238,6 @@ https://twitter.com/meagenvoss/
 https://blog.michaelckennedy.net/
 
 https://twitter.com/driscollis/
-
-https://twitter.com/moshezadka/
-
-https://github.com/nceder
-
-https://nedbatchelder.com/
-
-https://python-notes.curiousefficiency.org
-
-https://twitter.com/pganssle
-https://twitter.com/pganssle/
-https://blog.ganssle.io/
 
 https://www.paulox.net/
 https://twitter.com/pauloxnet/
@@ -172,12 +251,6 @@ https://blog.robertroskam.com/
 https://fosstodon.org/@sarahboyce@mastodon.social/
 
 https://www.sheenaoc.com/
-
-https://simonwillison.net/
-https://fosstodon.org/@simon@simonwillison.net
-https://twitter.com/simonw/
-
-https://twitter.com/jeremyphoward/
 
 https://www.linkedin.com/in/flipperpa/
 
@@ -194,19 +267,6 @@ https://twitter.com/teoliphant/
 
 https://dbader.org/
 
-https://treyhunner.com/
-https://www.pythonmorsels.com/
-https://twitter.com/PythonMorsels/
-https://fosstodon.org/@treyhunner@mastodon.social/
-https://medium.com/@treyhunner/
-https://www.youtube.com/c/PythonMorsels
-
-https://wsvincent.com/
-https://learndjango.com/
-https://djangoforbeginners.com/
-
-https://twitter.com/davidism/
-
 https://twitter.com/brianokken/
 
 https://www.willmcgugan.com/
@@ -218,27 +278,3 @@ https://daniel.feldroy.com/
 https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
 -->
-
-## Python/Django Authorities
-
-* Adam Johnson
-* [Alyssa Coghlan](https://www.curiousefficiency.org/pages/about/)
-* Andrew Godwin
-* Anthony Sottile
-* Brett Cannon
-* Carlton Gibson
-* Carol Willing
-* Ee Durbin
-* Guido van Rossum
-* [Hynek Schlawack](https://hynek.me/)
-* James Bennett
-* Łukasz Langa
-* Mariatta Wijaya
-* Mariusz Felisiak
-* Natalia Bidart
-* Ned Batchelder
-* Pablo Galindo Salgado
-* Paul Ganssle
-* Raymond Hettinger
-* Seth Larson
-* Simon Willison
